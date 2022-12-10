@@ -1,0 +1,38 @@
+
+Topics:
+
+  window ( window is the entire tab/browser which loading some type of documents() )  vs document ( HTML file loaded on a window )
+
+  Status/Response Code: Indication of status of a Request
+    1XX --> Hold on
+    2xx --> Success
+    3xx --> Redirect/No Change
+    4xx --> Client Side Error
+    5xx --> Server Side Error
+  
+  Install Extensions:
+    HTMLCSS Support -> ecmel
+    HTML Snippets -> Mohamed Abusaid/geyao
+    Live Server -> Ritwick Dey
+    Vscode Icons -> vscode
+    Rainbow Brackets -> 2gua
+
+  XMLHTTPRequest: ( retreive --> XML / JSON ) 
+    to get data/response from the a URL/data source
+    requesting:
+
+
+  var vs let vs const
+  block scoping
+
+Next Session:
+  Hoisting & Scope
+  types of function
+    1. function declaration
+    2. function expression
+    3. Arrow function
+    4. IIFE
+    5. Anonymous function
+  
+
+
